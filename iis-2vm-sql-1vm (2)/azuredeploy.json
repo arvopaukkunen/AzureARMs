@@ -7,7 +7,7 @@
       "metadata": {
         "description": "The base URI where artifacts required by this template are located. When the template is deployed using the accompanying scripts, a private location in the subscription will be used and this value will be automatically generated."
       },
-      "defaultValue": ""
+      "defaultValue": "https://github.com/arvopaukkunen/AzureARMs/blob/master/iis-2vm-sql-1vm%20(2)/"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
@@ -106,7 +106,7 @@
     "dbSubnetPrefix": "10.0.2.0/24",
     "feNSGName": "feNsg",
     "dbNSGName": "dbNsg",
-    "sqlSrvDBName": "[concat(parameters('envPrefixName'), 'sqlSrv14')]",
+    "sqlSrvDBName": "[concat(parameters('envPrefixName'), 'sqlSrv16')]",
     "sqlVmSize": "[parameters('sqlVMSize')]",
     "sqlSrvDBOsDiskName": "[concat(parameters('envPrefixName'), 'DBSrvOS')]",
     "sqlSrvDBDataDiskName": "[concat(parameters('envPrefixName'), 'DBSrvData')]",
