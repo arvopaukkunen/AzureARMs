@@ -3,8 +3,7 @@
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazure%2Fazure-quickstart-templates%2Fmaster%2Fiis-2vm-sql-1vm%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png" />
 </a>
-<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazure%2Fazure-quickstart-templates%2Fmaster%2Fiis-2vm-sql-1vm%2Fazuredeploy.json" target="_blank">
-    <img src="http://azuredeploy.net/AzureGov.png" />
+
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fiis-2vm-sql-1vm%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
@@ -14,8 +13,8 @@ This template creates one or two Windows Server 2012R2 VM(s) with IIS configured
 
 ## Resources
 The following resources are created by this template:
-- 1 or 2 Windows 2012R2 IIS Web Servers.
-- 1 SQL Server 2014 running on premium or standard storage.
+- 1 or 2 Windows 2016 IIS Web Servers.
+- 1 SQL Server 2016 running on premium or standard storage.
 - 1 virtual network with 2 subnets with NSG rules.
 - 1 storage account for the VHD files.
 - 1 Availability Set for IIS servers.
