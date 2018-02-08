@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "LocalAdmin"
+            "value": "xxxxxxxxx"
         },
         "adminPassword": {
-            "value": "FiskarsRul3z"
+            "value": "xxxxxxxxx"
         },
       "sqlServerServiceAccountPassword": {
-        "value": "FiskarsRul3z"
+        "value": "xxxxxxxxx"
       },
       "sharePointSetupUserAccountPassword": {
-        "value": "FiskarsRul3z"
+        "value": "xxxxxxxxx"
       },
       "sharePointFarmAccountPassword": {
-        "value": "FiskarsRul3z"
+        "value": "xxxxxxxxx"
       },
       "sharePointFarmPassphrasePassword": {
-        "value": "FiskarsRul3z"
+        "value": "xxxxxxxxx"
       },
         "sppublicIPAddressName": {
             "value": "arvosp"
