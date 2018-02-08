@@ -3,31 +3,31 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "GEN-UNIQUE-10"
+            "value": "LocalAdmin"
         },
         "adminPassword": {
-            "value": "GEN-PASSWORD"
+            "value": "FiskarsRul3z"
         },
-        "sqlServerServiceAccountPassword": {
-            "value": "GEN-PASSWORD"
-        },
-        "sharePointSetupUserAccountPassword": {
-            "value": "GEN-PASSWORD"
-        },
-        "sharePointFarmAccountPassword": {
-            "value": "GEN-PASSWORD"
-        },
-        "sharePointFarmPassphrasePassword": {
-            "value": "GEN-PASSWORD"
-        },
+      "sqlServerServiceAccountPassword": {
+        "value": "FiskarsRul3z"
+      },
+      "sharePointSetupUserAccountPassword": {
+        "value": "FiskarsRul3z"
+      },
+      "sharePointFarmAccountPassword": {
+        "value": "FiskarsRul3z"
+      },
+      "sharePointFarmPassphrasePassword": {
+        "value": "FiskarsRul3z"
+      },
         "sppublicIPAddressName": {
-            "value": "GEN-UNIQUE"
+            "value": "arvosp"
         },
         "spDNSPrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "arvo"
         },
         "storageAccountNamePrefix": {
-            "value": "GEN-UNIQUE"
+            "value": "arvo"
         }
     }
 }
